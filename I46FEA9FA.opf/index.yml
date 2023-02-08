@@ -1,0 +1,143 @@
+id: 90f6b8dfeb764490b04970ffe85684e3
+annotation_type: index
+revision: '00001'
+annotations:
+  575721508ca44e138ddb2820ac3edbc4:
+    base: 2F8B.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 10
+    - title: Preface
+      span:
+        start: 11
+        end: 31
+    - title: §1
+      span:
+        start: 32
+        end: 170
+    - title: §2
+      span:
+        start: 171
+        end: 403
+    - title: §3
+      span:
+        start: 404
+        end: 531
+    - title: §4
+      span:
+        start: 532
+        end: 619
+    - title: §5
+      span:
+        start: 620
+        end: 828
+    - title: §6
+      span:
+        start: 829
+        end: 1253
+    - title: §7
+      span:
+        start: 1254
+        end: 1360
+    - title: §8
+      span:
+        start: 1361
+        end: 1594
+    - title: §9
+      span:
+        start: 1595
+        end: 1963
+    - title: §10
+      span:
+        start: 1964
+        end: 2195
+    - title: §11
+      span:
+        start: 2196
+        end: 2425
+    - title: §12
+      span:
+        start: 2426
+        end: 2521
+    - title: §13
+      span:
+        start: 2522
+        end: 2878
+    - title: §14
+      span:
+        start: 2879
+        end: 3703
+    - title: §15
+      span:
+        start: 3704
+        end: 4036
+    - title: §16
+      span:
+        start: 4037
+        end: 4365
+    - title: §17
+      span:
+        start: 4366
+        end: 5137
+    - title: §18
+      span:
+        start: 5138
+        end: 5455
+    - title: §19
+      span:
+        start: 5456
+        end: 5705
+    - title: §21
+      span:
+        start: 5706
+        end: 5882
+    - title: §22
+      span:
+        start: 5883
+        end: 5956
+    - title: §23
+      span:
+        start: 5957
+        end: 6033
+    - title: §24
+      span:
+        start: 6034
+        end: 6149
+    - title: §25
+      span:
+        start: 6150
+        end: 6276
+    - title: §26
+      span:
+        start: 6277
+        end: 6465
+    - title: §27
+      span:
+        start: 6466
+        end: 6559
+    - title: §28
+      span:
+        start: 6560
+        end: 6651
+    - title: §29
+      span:
+        start: 6652
+        end: 6714
+    - title: §30
+      span:
+        start: 6715
+        end: 6922
+    - title: §31
+      span:
+        start: 6923
+        end: 7054
+    - title: §32
+      span:
+        start: 7055
+        end: 7215
+    - title: Colophon
+      span:
+        start: 7216
+        end: 7235
